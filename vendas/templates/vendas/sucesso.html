@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+<div class="container">
+  <header>
+    <h1>Compra Confirmada ✅</h1>
+  </header>
+
+  <main>
+    <p>Obrigado, <strong>{{ ticket.nome }}</strong>!</p>
+    <p>Seu assento é: <strong>{{ ticket.assento_label }}</strong></p>
+
+    {% if ticket.pdf_arquivo %}
+      <p>
+        <a href="{{ ticket.pdf_arquivo.url }}" target="_blank">
+          📄 Baixar ingresso em PDF
+        </a>
+      </p>
+    {% else %}
+      <p>O PDF será gerado em breve.</p>
+    {% endif %}
+
+    <!-- Botão de voltar ao mapa -->
+    <p>
+      <a href="{% url 'index' %}" class="btn-voltar">⬅️ Voltar ao mapa</a>
+    </p>
+  </main>
+
+  <footer>
+    <p>Sistema de ingressos presenciais</p>
+  </footer>
+</div>
+{% endblock %}
+
+
+

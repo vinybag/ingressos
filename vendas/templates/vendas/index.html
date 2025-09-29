@@ -1,0 +1,117 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+<div class="container">
+  <header>
+    <h1>Venda de Ingressos</h1>
+  </header>
+
+  <!-- Mapa -->
+  <section class="mapa-container">
+    <img id="mapa" src="{% static 'vendas/img/MAPA.png' %}"
+         alt="Mapa de assentos"
+         width="{{ natural_w }}" height="{{ natural_h }}">
+    <div id="marcadores"></div>
+  </section>
+
+  <!-- Legenda -->
+  <div class="legenda">
+    <span><span class="bolinha livre"></span> Livre</span>
+    <span><span class="bolinha vendido"></span> Vendido</span>
+    <span><span class="bolinha selecionado"></span> Selecionado</span>
+  </div>
+
+  <!-- Formulário -->
+  <section class="formulario">
+    <h2>Cadastro do comprador</h2>
+    <form method="post" action="{% url 'checkout' %}">
+      {% csrf_token %}
+
+      <label>
+        Nome:
+        <input type="text" name="nome" required>
+      </label>
+
+      <label>
+        Email:
+        <input type="email" name="email">
+      </label>
+
+      <label>
+        WhatsApp:
+        <input type="text" name="whatsapp">
+      </label>
+
+      <input type="hidden" name="assento_id" id="assento_id">
+      <input type="hidden" name="assento_label" id="assento_label">
+
+      <p class="assento-escolhido">Nenhum assento selecionado</p>
+
+      <button type="submit" id="btn-comprar" disabled>
+        Confirmar Compra
+      </button>
+    </form>
+  </section>
+
+  <footer>
+    <p>Sistema de ingressos presenciais</p>
+  </footer>
+</div>
+
+<!-- Script -->
+<script>
+const mapa = document.getElementById("mapa");
+const marcadores = document.getElementById("marcadores");
+const assentoIdInput = document.getElementById("assento_id");
+const assentoLabelInput = document.getElementById("assento_label");
+const assentoEscolhido = document.querySelector(".assento-escolhido");
+const btnComprar = document.getElementById("btn-comprar");
+
+function carregarAssentos() {
+  fetch("{% url 'api_assentos' %}")
+    .then(r => r.json())
+    .then(data => {
+      marcadores.innerHTML = "";
+      data.forEach(assento => {
+        const [x1,y1,x2,y2] = assento.fields.coords.split(",").map(Number);
+        const cx = (x1 + x2) / 2;
+        const cy = (y1 + y2) / 2;
+        const pino = document.createElement("div");
+        pino.classList.add("pino");
+        pino.classList.add(assento.fields.ocupado ? "vendido" : "livre");
+        pino.style.left = (cx / {{ natural_w }} * 100) + "%";
+        pino.style.top = (cy / {{ natural_h }} * 100) + "%";
+        pino.title = assento.fields.nome;
+
+        if (!assento.fields.ocupado) {
+          pino.addEventListener("click", () => {
+            document.querySelectorAll(".pino").forEach(p => p.classList.remove("selecionado"));
+            pino.classList.add("selecionado");
+            assentoIdInput.value = assento.pk;
+            assentoLabelInput.value = assento.fields.nome;
+            assentoEscolhido.textContent = "Assento escolhido: " + assento.fields.nome;
+            btnComprar.disabled = false;
+          });
+        }
+
+        marcadores.appendChild(pino);
+      });
+    });
+}
+
+// Garantir que sempre carregue
+if (mapa.complete) {
+  carregarAssentos();
+} else {
+  mapa.addEventListener("load", carregarAssentos);
+}
+</script>
+{% endblock %}
+
+
+
+
+
+
+
