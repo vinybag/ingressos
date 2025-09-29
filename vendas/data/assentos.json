@@ -1,6 +1,6 @@
 [
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 1,
     "fields": {
       "nome": "ASSENTO A1",
@@ -9,7 +9,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 2,
     "fields": {
       "nome": "ASSENTO A2",
@@ -18,7 +18,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 3,
     "fields": {
       "nome": "ASSENTO A3",
@@ -27,7 +27,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 4,
     "fields": {
       "nome": "ASSENTO A4",
@@ -36,7 +36,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 5,
     "fields": {
       "nome": "ASSENTO A5",
@@ -45,7 +45,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 6,
     "fields": {
       "nome": "ASSENTO A6",
@@ -54,7 +54,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 7,
     "fields": {
       "nome": "ASSENTO A7",
@@ -63,7 +63,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 8,
     "fields": {
       "nome": "ASSENTO A8",
@@ -72,7 +72,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 9,
     "fields": {
       "nome": "ASSENTO A9",
@@ -81,7 +81,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 10,
     "fields": {
       "nome": "ASSENTO B1",
@@ -90,7 +90,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 11,
     "fields": {
       "nome": "ASSENTO B2",
@@ -99,7 +99,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 12,
     "fields": {
       "nome": "ASSENTO B3",
@@ -108,7 +108,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 13,
     "fields": {
       "nome": "ASSENTO B4",
@@ -117,7 +117,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 14,
     "fields": {
       "nome": "ASSENTO B5",
@@ -126,7 +126,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 15,
     "fields": {
       "nome": "ASSENTO B6",
@@ -135,7 +135,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 16,
     "fields": {
       "nome": "ASSENTO B7",
@@ -144,7 +144,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 17,
     "fields": {
       "nome": "ASSENTO B8",
@@ -153,7 +153,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 18,
     "fields": {
       "nome": "ASSENTO B9",
@@ -162,7 +162,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 19,
     "fields": {
       "nome": "ASSENTO B10",
@@ -171,7 +171,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 20,
     "fields": {
       "nome": "ASSENTO B11",
@@ -180,7 +180,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 21,
     "fields": {
       "nome": "ASSENTO B12",
@@ -189,7 +189,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 22,
     "fields": {
       "nome": "ASSENTO B13",
@@ -198,7 +198,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 23,
     "fields": {
       "nome": "ASSENTO B14",
@@ -207,7 +207,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 24,
     "fields": {
       "nome": "ASSENTO B15",
@@ -216,7 +216,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 25,
     "fields": {
       "nome": "ASSENTO B16",
@@ -225,7 +225,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 26,
     "fields": {
       "nome": "ASSENTO B17",
@@ -234,7 +234,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 27,
     "fields": {
       "nome": "ASSENTO B18",
@@ -243,7 +243,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 28,
     "fields": {
       "nome": "ASSENTO B19",
@@ -252,7 +252,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 29,
     "fields": {
       "nome": "ASSENTO B20",
@@ -261,7 +261,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 30,
     "fields": {
       "nome": "ASSENTO B21",
@@ -270,7 +270,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 31,
     "fields": {
       "nome": "ASSENTO C1",
@@ -279,7 +279,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 32,
     "fields": {
       "nome": "ASSENTO C2",
@@ -288,7 +288,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 33,
     "fields": {
       "nome": "ASSENTO C3",
@@ -297,7 +297,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 34,
     "fields": {
       "nome": "ASSENTO C4",
@@ -306,7 +306,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 35,
     "fields": {
       "nome": "ASSENTO C5",
@@ -315,7 +315,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 36,
     "fields": {
       "nome": "ASSENTO C6",
@@ -324,7 +324,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 37,
     "fields": {
       "nome": "ASSENTO C7",
@@ -333,7 +333,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 38,
     "fields": {
       "nome": "ASSENTO C8",
@@ -342,7 +342,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 39,
     "fields": {
       "nome": "ASSENTO C9",
@@ -351,7 +351,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 40,
     "fields": {
       "nome": "ASSENTO C10",
@@ -360,7 +360,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 41,
     "fields": {
       "nome": "ASSENTO C11",
@@ -369,7 +369,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 42,
     "fields": {
       "nome": "ASSENTO C12",
@@ -378,7 +378,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 43,
     "fields": {
       "nome": "ASSENTO C13",
@@ -387,7 +387,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 44,
     "fields": {
       "nome": "ASSENTO C14",
@@ -396,7 +396,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 45,
     "fields": {
       "nome": "ASSENTO C15",
@@ -405,7 +405,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 46,
     "fields": {
       "nome": "ASSENTO C16",
@@ -414,7 +414,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 47,
     "fields": {
       "nome": "ASSENTO C17",
@@ -423,7 +423,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 48,
     "fields": {
       "nome": "ASSENTO C18",
@@ -432,7 +432,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 49,
     "fields": {
       "nome": "ASSENTO C19",
@@ -441,7 +441,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 50,
     "fields": {
       "nome": "ASSENTO C20",
@@ -450,7 +450,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 51,
     "fields": {
       "nome": "ASSENTO C21",
@@ -459,7 +459,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 52,
     "fields": {
       "nome": "ASSENTO D1",
@@ -468,7 +468,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 53,
     "fields": {
       "nome": "ASSENTO D2",
@@ -477,7 +477,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 54,
     "fields": {
       "nome": "ASSENTO D3",
@@ -486,7 +486,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 55,
     "fields": {
       "nome": "ASSENTO D4",
@@ -495,7 +495,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 56,
     "fields": {
       "nome": "ASSENTO D5",
@@ -504,7 +504,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 57,
     "fields": {
       "nome": "ASSENTO D6",
@@ -513,7 +513,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 58,
     "fields": {
       "nome": "ASSENTO D7",
@@ -522,7 +522,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 59,
     "fields": {
       "nome": "ASSENTO D8",
@@ -531,7 +531,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 60,
     "fields": {
       "nome": "ASSENTO D9",
@@ -540,7 +540,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 61,
     "fields": {
       "nome": "ASSENTO D10",
@@ -549,7 +549,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 62,
     "fields": {
       "nome": "ASSENTO D11",
@@ -558,7 +558,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 63,
     "fields": {
       "nome": "ASSENTO D12",
@@ -567,7 +567,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 64,
     "fields": {
       "nome": "ASSENTO D13",
@@ -576,7 +576,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 65,
     "fields": {
       "nome": "ASSENTO D14",
@@ -585,7 +585,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 66,
     "fields": {
       "nome": "ASSENTO D15",
@@ -594,7 +594,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 67,
     "fields": {
       "nome": "ASSENTO D16",
@@ -603,7 +603,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 68,
     "fields": {
       "nome": "ASSENTO D17",
@@ -612,7 +612,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 69,
     "fields": {
       "nome": "ASSENTO D18",
@@ -621,7 +621,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 70,
     "fields": {
       "nome": "ASSENTO D19",
@@ -630,7 +630,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 71,
     "fields": {
       "nome": "ASSENTO D20",
@@ -639,7 +639,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 72,
     "fields": {
       "nome": "ASSENTO D21",
@@ -648,7 +648,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 73,
     "fields": {
       "nome": "ASSENTO E1",
@@ -657,7 +657,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 74,
     "fields": {
       "nome": "ASSENTO E2",
@@ -666,7 +666,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 75,
     "fields": {
       "nome": "ASSENTO E3",
@@ -675,7 +675,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 76,
     "fields": {
       "nome": "ASSENTO E4",
@@ -684,7 +684,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 77,
     "fields": {
       "nome": "ASSENTO E5",
@@ -693,7 +693,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 78,
     "fields": {
       "nome": "ASSENTO E6",
@@ -702,7 +702,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 79,
     "fields": {
       "nome": "ASSENTO E7",
@@ -711,7 +711,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 80,
     "fields": {
       "nome": "ASSENTO E8",
@@ -720,7 +720,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 81,
     "fields": {
       "nome": "ASSENTO E9",
@@ -729,7 +729,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 82,
     "fields": {
       "nome": "ASSENTO E10",
@@ -738,7 +738,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 83,
     "fields": {
       "nome": "ASSENTO E11",
@@ -747,7 +747,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 84,
     "fields": {
       "nome": "ASSENTO E12",
@@ -756,7 +756,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 85,
     "fields": {
       "nome": "ASSENTO E13",
@@ -765,7 +765,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 86,
     "fields": {
       "nome": "ASSENTO E14",
@@ -774,7 +774,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 87,
     "fields": {
       "nome": "ASSENTO E15",
@@ -783,7 +783,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 88,
     "fields": {
       "nome": "ASSENTO E16",
@@ -792,7 +792,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 89,
     "fields": {
       "nome": "ASSENTO E17",
@@ -801,7 +801,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 90,
     "fields": {
       "nome": "ASSENTO E18",
@@ -810,7 +810,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 91,
     "fields": {
       "nome": "ASSENTO E19",
@@ -819,7 +819,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 92,
     "fields": {
       "nome": "ASSENTO E20",
@@ -828,7 +828,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 93,
     "fields": {
       "nome": "ASSENTO E21",
@@ -837,7 +837,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 94,
     "fields": {
       "nome": "ASSENTO F1",
@@ -846,7 +846,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 95,
     "fields": {
       "nome": "ASSENTO F2",
@@ -855,7 +855,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 96,
     "fields": {
       "nome": "ASSENTO F3",
@@ -864,7 +864,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 97,
     "fields": {
       "nome": "ASSENTO F4",
@@ -873,7 +873,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 98,
     "fields": {
       "nome": "ASSENTO F5",
@@ -882,7 +882,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 99,
     "fields": {
       "nome": "ASSENTO F6",
@@ -891,7 +891,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 100,
     "fields": {
       "nome": "ASSENTO F7",
@@ -900,7 +900,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 101,
     "fields": {
       "nome": "ASSENTO F8",
@@ -909,7 +909,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 102,
     "fields": {
       "nome": "ASSENTO F9",
@@ -918,7 +918,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 103,
     "fields": {
       "nome": "ASSENTO F10",
@@ -927,7 +927,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 104,
     "fields": {
       "nome": "ASSENTO F11",
@@ -936,7 +936,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 105,
     "fields": {
       "nome": "ASSENTO F12",
@@ -945,7 +945,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 106,
     "fields": {
       "nome": "ASSENTO F13",
@@ -954,7 +954,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 107,
     "fields": {
       "nome": "ASSENTO F14",
@@ -963,7 +963,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 108,
     "fields": {
       "nome": "ASSENTO F15",
@@ -972,7 +972,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 109,
     "fields": {
       "nome": "ASSENTO F16",
@@ -981,7 +981,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 110,
     "fields": {
       "nome": "ASSENTO F17",
@@ -990,7 +990,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 111,
     "fields": {
       "nome": "ASSENTO F18",
@@ -999,7 +999,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 112,
     "fields": {
       "nome": "ASSENTO F19",
@@ -1008,7 +1008,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 113,
     "fields": {
       "nome": "ASSENTO F20",
@@ -1017,7 +1017,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 114,
     "fields": {
       "nome": "ASSENTO F21",
@@ -1026,7 +1026,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 115,
     "fields": {
       "nome": "ASSENTO G1",
@@ -1035,7 +1035,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 116,
     "fields": {
       "nome": "ASSENTO G2",
@@ -1044,7 +1044,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 117,
     "fields": {
       "nome": "ASSENTO G3",
@@ -1053,7 +1053,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 118,
     "fields": {
       "nome": "ASSENTO G4",
@@ -1062,7 +1062,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 119,
     "fields": {
       "nome": "ASSENTO G5",
@@ -1071,7 +1071,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 120,
     "fields": {
       "nome": "ASSENTO G6",
@@ -1080,7 +1080,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 121,
     "fields": {
       "nome": "ASSENTO G7",
@@ -1089,7 +1089,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 122,
     "fields": {
       "nome": "ASSENTO G8",
@@ -1098,7 +1098,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 123,
     "fields": {
       "nome": "ASSENTO G9",
@@ -1107,7 +1107,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 124,
     "fields": {
       "nome": "ASSENTO G10",
@@ -1116,7 +1116,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 125,
     "fields": {
       "nome": "ASSENTO G11",
@@ -1125,7 +1125,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 126,
     "fields": {
       "nome": "ASSENTO G12",
@@ -1134,7 +1134,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 127,
     "fields": {
       "nome": "ASSENTO G13",
@@ -1143,7 +1143,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 128,
     "fields": {
       "nome": "ASSENTO G14",
@@ -1152,7 +1152,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 129,
     "fields": {
       "nome": "ASSENTO G15",
@@ -1161,7 +1161,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 130,
     "fields": {
       "nome": "ASSENTO G16",
@@ -1170,7 +1170,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 131,
     "fields": {
       "nome": "ASSENTO G17",
@@ -1179,7 +1179,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 132,
     "fields": {
       "nome": "ASSENTO G18",
@@ -1188,7 +1188,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 133,
     "fields": {
       "nome": "ASSENTO G19",
@@ -1197,7 +1197,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 134,
     "fields": {
       "nome": "ASSENTO G20",
@@ -1206,7 +1206,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 135,
     "fields": {
       "nome": "ASSENTO G21",
@@ -1215,7 +1215,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 136,
     "fields": {
       "nome": "ASSENTO H1",
@@ -1224,7 +1224,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 137,
     "fields": {
       "nome": "ASSENTO H2",
@@ -1233,7 +1233,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 138,
     "fields": {
       "nome": "ASSENTO H3",
@@ -1242,7 +1242,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 139,
     "fields": {
       "nome": "ASSENTO H4",
@@ -1251,7 +1251,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 140,
     "fields": {
       "nome": "ASSENTO H5",
@@ -1260,7 +1260,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 141,
     "fields": {
       "nome": "ASSENTO H6",
@@ -1269,7 +1269,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 142,
     "fields": {
       "nome": "ASSENTO H7",
@@ -1278,7 +1278,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 143,
     "fields": {
       "nome": "ASSENTO H8",
@@ -1287,7 +1287,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 144,
     "fields": {
       "nome": "ASSENTO H9",
@@ -1296,7 +1296,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 145,
     "fields": {
       "nome": "ASSENTO H10",
@@ -1305,7 +1305,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 146,
     "fields": {
       "nome": "ASSENTO H11",
@@ -1314,7 +1314,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 147,
     "fields": {
       "nome": "ASSENTO H12",
@@ -1323,7 +1323,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 148,
     "fields": {
       "nome": "ASSENTO H13",
@@ -1332,7 +1332,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 149,
     "fields": {
       "nome": "ASSENTO H14",
@@ -1341,7 +1341,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 150,
     "fields": {
       "nome": "ASSENTO H15",
@@ -1350,7 +1350,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 151,
     "fields": {
       "nome": "ASSENTO H16",
@@ -1359,7 +1359,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 152,
     "fields": {
       "nome": "ASSENTO H17",
@@ -1368,7 +1368,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 153,
     "fields": {
       "nome": "ASSENTO H18",
@@ -1377,7 +1377,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 154,
     "fields": {
       "nome": "ASSENTO H19",
@@ -1386,7 +1386,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 155,
     "fields": {
       "nome": "ASSENTO H20",
@@ -1395,7 +1395,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 156,
     "fields": {
       "nome": "ASSENTO I1",
@@ -1404,7 +1404,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 157,
     "fields": {
       "nome": "ASSENTO I2",
@@ -1413,7 +1413,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 158,
     "fields": {
       "nome": "ASSENTO I3",
@@ -1422,7 +1422,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 159,
     "fields": {
       "nome": "ASSENTO I4",
@@ -1431,7 +1431,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 160,
     "fields": {
       "nome": "ASSENTO I5",
@@ -1440,7 +1440,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 161,
     "fields": {
       "nome": "ASSENTO I6",
@@ -1449,7 +1449,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 162,
     "fields": {
       "nome": "ASSENTO I7",
@@ -1458,7 +1458,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 163,
     "fields": {
       "nome": "ASSENTO I8",
@@ -1467,7 +1467,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 164,
     "fields": {
       "nome": "ASSENTO I9",
@@ -1476,7 +1476,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 165,
     "fields": {
       "nome": "ASSENTO I10",
@@ -1485,7 +1485,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 166,
     "fields": {
       "nome": "ASSENTO I11",
@@ -1494,7 +1494,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 167,
     "fields": {
       "nome": "ASSENTO I12",
@@ -1503,7 +1503,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 168,
     "fields": {
       "nome": "ASSENTO I13",
@@ -1512,7 +1512,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 169,
     "fields": {
       "nome": "ASSENTO I14",
@@ -1521,7 +1521,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 170,
     "fields": {
       "nome": "ASSENTO I15",
@@ -1530,7 +1530,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 171,
     "fields": {
       "nome": "ASSENTO J1",
@@ -1539,7 +1539,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 172,
     "fields": {
       "nome": "ASSENTO J2",
@@ -1548,7 +1548,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 173,
     "fields": {
       "nome": "ASSENTO J3",
@@ -1557,7 +1557,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 174,
     "fields": {
       "nome": "ASSENTO J4",
@@ -1566,7 +1566,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 175,
     "fields": {
       "nome": "ASSENTO J5",
@@ -1575,7 +1575,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 176,
     "fields": {
       "nome": "ASSENTO J6",
@@ -1584,7 +1584,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 177,
     "fields": {
       "nome": "ASSENTO J7",
@@ -1593,7 +1593,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 178,
     "fields": {
       "nome": "ASSENTO J8",
@@ -1602,7 +1602,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 179,
     "fields": {
       "nome": "ASSENTO J9",
@@ -1611,7 +1611,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 180,
     "fields": {
       "nome": "ASSENTO J10",
@@ -1620,7 +1620,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 181,
     "fields": {
       "nome": "ASSENTO J11",
@@ -1629,7 +1629,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 182,
     "fields": {
       "nome": "ASSENTO J12",
@@ -1638,7 +1638,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 183,
     "fields": {
       "nome": "ASSENTO J13",
@@ -1647,7 +1647,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 184,
     "fields": {
       "nome": "ASSENTO J14",
@@ -1656,7 +1656,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 185,
     "fields": {
       "nome": "ASSENTO J15",
@@ -1665,7 +1665,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 186,
     "fields": {
       "nome": "ASSENTO J16",
@@ -1674,7 +1674,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 187,
     "fields": {
       "nome": "ASSENTO J17",
@@ -1683,7 +1683,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 188,
     "fields": {
       "nome": "ASSENTO J18",
@@ -1692,7 +1692,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 189,
     "fields": {
       "nome": "ASSENTO J19",
@@ -1701,7 +1701,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 190,
     "fields": {
       "nome": "ASSENTO J20",
@@ -1710,7 +1710,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 191,
     "fields": {
       "nome": "ASSENTO K1",
@@ -1719,7 +1719,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 192,
     "fields": {
       "nome": "ASSENTO K2",
@@ -1728,7 +1728,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 193,
     "fields": {
       "nome": "ASSENTO K3",
@@ -1737,7 +1737,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 194,
     "fields": {
       "nome": "ASSENTO K4",
@@ -1746,7 +1746,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 195,
     "fields": {
       "nome": "ASSENTO K5",
@@ -1755,7 +1755,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 196,
     "fields": {
       "nome": "ASSENTO K6",
@@ -1764,7 +1764,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 197,
     "fields": {
       "nome": "ASSENTO K7",
@@ -1773,7 +1773,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 198,
     "fields": {
       "nome": "ASSENTO K8",
@@ -1782,7 +1782,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 199,
     "fields": {
       "nome": "ASSENTO K9",
@@ -1791,7 +1791,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 200,
     "fields": {
       "nome": "ASSENTO K10",
@@ -1800,7 +1800,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 201,
     "fields": {
       "nome": "ASSENTO K11",
@@ -1809,7 +1809,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 202,
     "fields": {
       "nome": "ASSENTO K12",
@@ -1818,7 +1818,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 203,
     "fields": {
       "nome": "ASSENTO K13",
@@ -1827,7 +1827,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 204,
     "fields": {
       "nome": "ASSENTO K14",
@@ -1836,7 +1836,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 205,
     "fields": {
       "nome": "ASSENTO K15",
@@ -1845,7 +1845,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 206,
     "fields": {
       "nome": "ASSENTO K16",
@@ -1854,7 +1854,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 207,
     "fields": {
       "nome": "ASSENTO K17",
@@ -1863,7 +1863,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 208,
     "fields": {
       "nome": "ASSENTO K18",
@@ -1872,7 +1872,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 209,
     "fields": {
       "nome": "ASSENTO K19",
@@ -1881,7 +1881,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 210,
     "fields": {
       "nome": "ASSENTO L1",
@@ -1890,7 +1890,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 211,
     "fields": {
       "nome": "ASSENTO L2",
@@ -1899,7 +1899,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 212,
     "fields": {
       "nome": "ASSENTO L3",
@@ -1908,7 +1908,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 213,
     "fields": {
       "nome": "ASSENTO L4",
@@ -1917,7 +1917,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 214,
     "fields": {
       "nome": "ASSENTO L5",
@@ -1926,7 +1926,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 215,
     "fields": {
       "nome": "ASSENTO L6",
@@ -1935,7 +1935,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 216,
     "fields": {
       "nome": "ASSENTO L7",
@@ -1944,7 +1944,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 217,
     "fields": {
       "nome": "ASSENTO L8",
@@ -1953,7 +1953,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 218,
     "fields": {
       "nome": "ASSENTO L9",
@@ -1962,7 +1962,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 219,
     "fields": {
       "nome": "ASSENTO L10",
@@ -1971,7 +1971,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 220,
     "fields": {
       "nome": "ASSENTO L11",
@@ -1980,7 +1980,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 221,
     "fields": {
       "nome": "ASSENTO L12",
@@ -1989,7 +1989,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 222,
     "fields": {
       "nome": "ASSENTO L13",
@@ -1998,7 +1998,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 223,
     "fields": {
       "nome": "ASSENTO L14",
@@ -2007,7 +2007,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 224,
     "fields": {
       "nome": "ASSENTO L15",
@@ -2016,7 +2016,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 225,
     "fields": {
       "nome": "ASSENTO L16",
@@ -2025,7 +2025,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 226,
     "fields": {
       "nome": "ASSENTO L17",
@@ -2034,7 +2034,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 227,
     "fields": {
       "nome": "ASSENTO L18",
@@ -2043,7 +2043,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 228,
     "fields": {
       "nome": "ASSENTO L19",
@@ -2052,7 +2052,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 229,
     "fields": {
       "nome": "ASSENTO M1",
@@ -2061,7 +2061,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 230,
     "fields": {
       "nome": "ASSENTO M2",
@@ -2070,7 +2070,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 231,
     "fields": {
       "nome": "ASSENTO M3",
@@ -2079,7 +2079,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 232,
     "fields": {
       "nome": "ASSENTO M4",
@@ -2088,7 +2088,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 233,
     "fields": {
       "nome": "ASSENTO M5",
@@ -2097,7 +2097,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 234,
     "fields": {
       "nome": "ASSENTO M6",
@@ -2106,7 +2106,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 235,
     "fields": {
       "nome": "ASSENTO M7",
@@ -2115,7 +2115,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 236,
     "fields": {
       "nome": "ASSENTO M8",
@@ -2124,7 +2124,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 237,
     "fields": {
       "nome": "ASSENTO M9",
@@ -2133,7 +2133,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 238,
     "fields": {
       "nome": "ASSENTO M10",
@@ -2142,7 +2142,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 239,
     "fields": {
       "nome": "ASSENTO M11",
@@ -2151,7 +2151,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 240,
     "fields": {
       "nome": "ASSENTO M12",
@@ -2160,7 +2160,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 241,
     "fields": {
       "nome": "ASSENTO M13",
@@ -2169,7 +2169,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 242,
     "fields": {
       "nome": "ASSENTO M14",
@@ -2178,7 +2178,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 243,
     "fields": {
       "nome": "ASSENTO M15",
@@ -2187,7 +2187,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 244,
     "fields": {
       "nome": "ASSENTO M16",
@@ -2196,7 +2196,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 245,
     "fields": {
       "nome": "ASSENTO M17",
@@ -2205,7 +2205,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 246,
     "fields": {
       "nome": "ASSENTO M18",
@@ -2214,7 +2214,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 247,
     "fields": {
       "nome": "ASSENTO M19",
@@ -2223,7 +2223,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 248,
     "fields": {
       "nome": "ASSENTO N1",
@@ -2232,7 +2232,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 249,
     "fields": {
       "nome": "ASSENTO N2",
@@ -2241,7 +2241,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 250,
     "fields": {
       "nome": "ASSENTO N3",
@@ -2250,7 +2250,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 251,
     "fields": {
       "nome": "ASSENTO N4",
@@ -2259,7 +2259,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 252,
     "fields": {
       "nome": "ASSENTO N5",
@@ -2268,7 +2268,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 253,
     "fields": {
       "nome": "ASSENTO N6",
@@ -2277,7 +2277,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 254,
     "fields": {
       "nome": "ASSENTO N7",
@@ -2286,7 +2286,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 255,
     "fields": {
       "nome": "ASSENTO N8",
@@ -2295,7 +2295,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 256,
     "fields": {
       "nome": "ASSENTO N9",
@@ -2304,7 +2304,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 257,
     "fields": {
       "nome": "ASSENTO N10",
@@ -2313,7 +2313,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 258,
     "fields": {
       "nome": "ASSENTO N11",
@@ -2322,7 +2322,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 259,
     "fields": {
       "nome": "ASSENTO N12",
@@ -2331,7 +2331,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 260,
     "fields": {
       "nome": "ASSENTO N13",
@@ -2340,7 +2340,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 261,
     "fields": {
       "nome": "ASSENTO N14",
@@ -2349,7 +2349,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 262,
     "fields": {
       "nome": "ASSENTO N15",
@@ -2358,7 +2358,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 263,
     "fields": {
       "nome": "ASSENTO N16",
@@ -2367,7 +2367,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 264,
     "fields": {
       "nome": "ASSENTO N17",
@@ -2376,7 +2376,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 265,
     "fields": {
       "nome": "ASSENTO N18",
@@ -2385,7 +2385,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 266,
     "fields": {
       "nome": "ASSENTO N19",
@@ -2394,7 +2394,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 267,
     "fields": {
       "nome": "ASSENTO O1",
@@ -2403,7 +2403,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 268,
     "fields": {
       "nome": "ASSENTO O2",
@@ -2412,7 +2412,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 269,
     "fields": {
       "nome": "ASSENTO O3",
@@ -2421,7 +2421,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 270,
     "fields": {
       "nome": "ASSENTO O4",
@@ -2430,7 +2430,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 271,
     "fields": {
       "nome": "ASSENTO O5",
@@ -2439,7 +2439,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 272,
     "fields": {
       "nome": "ASSENTO O6",
@@ -2448,7 +2448,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 273,
     "fields": {
       "nome": "ASSENTO O7",
@@ -2457,7 +2457,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 274,
     "fields": {
       "nome": "ASSENTO O8",
@@ -2466,7 +2466,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 275,
     "fields": {
       "nome": "ASSENTO O9",
@@ -2475,7 +2475,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 276,
     "fields": {
       "nome": "ASSENTO O10",
@@ -2484,7 +2484,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 277,
     "fields": {
       "nome": "ASSENTO O11",
@@ -2493,7 +2493,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 278,
     "fields": {
       "nome": "ASSENTO O12",
@@ -2502,7 +2502,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 279,
     "fields": {
       "nome": "ASSENTO O13",
@@ -2511,7 +2511,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 280,
     "fields": {
       "nome": "ASSENTO O14",
@@ -2520,7 +2520,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 281,
     "fields": {
       "nome": "ASSENTO O15",
@@ -2529,7 +2529,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 282,
     "fields": {
       "nome": "ASSENTO O16",
@@ -2538,7 +2538,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 283,
     "fields": {
       "nome": "ASSENTO O17",
@@ -2547,7 +2547,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 284,
     "fields": {
       "nome": "ASSENTO O18",
@@ -2556,7 +2556,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 285,
     "fields": {
       "nome": "ASSENTO O19",
@@ -2565,7 +2565,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 286,
     "fields": {
       "nome": "ASSENTO P1",
@@ -2574,7 +2574,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 287,
     "fields": {
       "nome": "ASSENTO P2",
@@ -2583,7 +2583,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 288,
     "fields": {
       "nome": "ASSENTO P3",
@@ -2592,7 +2592,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 289,
     "fields": {
       "nome": "ASSENTO P4",
@@ -2601,7 +2601,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 290,
     "fields": {
       "nome": "ASSENTO P5",
@@ -2610,7 +2610,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 291,
     "fields": {
       "nome": "ASSENTO Q1",
@@ -2619,7 +2619,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 292,
     "fields": {
       "nome": "ASSENTO Q2",
@@ -2628,7 +2628,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 293,
     "fields": {
       "nome": "ASSENTO Q3",
@@ -2637,7 +2637,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 294,
     "fields": {
       "nome": "ASSENTO Q4",
@@ -2646,7 +2646,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 295,
     "fields": {
       "nome": "ASSENTO Q5",
@@ -2655,7 +2655,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 296,
     "fields": {
       "nome": "ASSENTO R1",
@@ -2664,7 +2664,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 297,
     "fields": {
       "nome": "ASSENTO R2",
@@ -2673,7 +2673,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 298,
     "fields": {
       "nome": "ASSENTO R3",
@@ -2682,7 +2682,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 299,
     "fields": {
       "nome": "ASSENTO R4",
@@ -2691,7 +2691,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 300,
     "fields": {
       "nome": "ASSENTO R5",
@@ -2700,7 +2700,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 301,
     "fields": {
       "nome": "MEZANINO 1",
@@ -2709,7 +2709,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 302,
     "fields": {
       "nome": "MEZANINO 2",
@@ -2718,7 +2718,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 303,
     "fields": {
       "nome": "MEZANINO 3",
@@ -2727,7 +2727,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 304,
     "fields": {
       "nome": "MEZANINO 4",
@@ -2736,7 +2736,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 305,
     "fields": {
       "nome": "MEZANINO 5",
@@ -2745,7 +2745,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 306,
     "fields": {
       "nome": "MEZANINO 6",
@@ -2754,7 +2754,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 307,
     "fields": {
       "nome": "MEZANINO 7",
@@ -2763,7 +2763,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 308,
     "fields": {
       "nome": "MEZANINO 8",
@@ -2772,7 +2772,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 309,
     "fields": {
       "nome": "MEZANINO 9",
@@ -2781,7 +2781,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 310,
     "fields": {
       "nome": "MEZANINO 10",
@@ -2790,7 +2790,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 311,
     "fields": {
       "nome": "MEZANINO 11",
@@ -2799,7 +2799,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 312,
     "fields": {
       "nome": "MEZANINO 12",
@@ -2808,7 +2808,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 313,
     "fields": {
       "nome": "MEZANINO 13",
@@ -2817,7 +2817,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 314,
     "fields": {
       "nome": "MEZANINO 14",
@@ -2826,7 +2826,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 315,
     "fields": {
       "nome": "MEZANINO 15",
@@ -2835,7 +2835,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 316,
     "fields": {
       "nome": "MEZANINO 16",
@@ -2844,7 +2844,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 317,
     "fields": {
       "nome": "MEZANINO 17",
@@ -2853,7 +2853,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 318,
     "fields": {
       "nome": "MEZANINO 18",
@@ -2862,7 +2862,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 319,
     "fields": {
       "nome": "MEZANINO 19",
@@ -2871,7 +2871,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 320,
     "fields": {
       "nome": "MEZANINO 20",
@@ -2880,7 +2880,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 321,
     "fields": {
       "nome": "MEZANINO 21",
@@ -2889,7 +2889,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 322,
     "fields": {
       "nome": "MEZANINO 22",
@@ -2898,7 +2898,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 323,
     "fields": {
       "nome": "MEZANINO 23",
@@ -2907,7 +2907,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 324,
     "fields": {
       "nome": "MEZANINO 24",
@@ -2916,7 +2916,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 325,
     "fields": {
       "nome": "MEZANINO 25",
@@ -2925,7 +2925,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 326,
     "fields": {
       "nome": "MEZANINO 26",
@@ -2934,7 +2934,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 327,
     "fields": {
       "nome": "MEZANINO 27",
@@ -2943,7 +2943,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 328,
     "fields": {
       "nome": "MEZANINO 28",
@@ -2952,7 +2952,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 329,
     "fields": {
       "nome": "MEZANINO 29",
@@ -2961,7 +2961,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 330,
     "fields": {
       "nome": "MEZANINO 30",
@@ -2970,7 +2970,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 331,
     "fields": {
       "nome": "MEZANINO 31",
@@ -2979,7 +2979,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 332,
     "fields": {
       "nome": "MEZANINO 32",
@@ -2988,7 +2988,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 333,
     "fields": {
       "nome": "MEZANINO 33",
@@ -2997,7 +2997,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 334,
     "fields": {
       "nome": "MEZANINO 34",
@@ -3006,7 +3006,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 335,
     "fields": {
       "nome": "MEZANINO 35",
@@ -3015,7 +3015,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 336,
     "fields": {
       "nome": "MEZANINO 36",
@@ -3024,7 +3024,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 337,
     "fields": {
       "nome": "MEZANINO 37",
@@ -3033,7 +3033,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 338,
     "fields": {
       "nome": "MEZANINO 38",
@@ -3042,7 +3042,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 339,
     "fields": {
       "nome": "MEZANINO 39",
@@ -3051,7 +3051,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 340,
     "fields": {
       "nome": "MEZANINO 40",
@@ -3060,7 +3060,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 341,
     "fields": {
       "nome": "MEZANINO 41",
@@ -3069,7 +3069,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 342,
     "fields": {
       "nome": "MEZANINO 42",
@@ -3078,7 +3078,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 343,
     "fields": {
       "nome": "MEZANINO 43",
@@ -3087,7 +3087,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 344,
     "fields": {
       "nome": "MEZANINO 44",
@@ -3096,7 +3096,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 345,
     "fields": {
       "nome": "MEZANINO 45",
@@ -3105,7 +3105,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 346,
     "fields": {
       "nome": "MEZANINO 46",
@@ -3114,7 +3114,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 347,
     "fields": {
       "nome": "MEZANINO 47",
@@ -3123,7 +3123,7 @@
     }
   },
   {
-    "model": "ingressos.assento",
+    "model": "vendas.assento",
     "pk": 348,
     "fields": {
       "nome": "MEZANINO 48",
